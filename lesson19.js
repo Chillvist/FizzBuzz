@@ -1,3 +1,5 @@
+Document.write "Use the I, J, K, L, keys to move"
+
 let numSegments = 10;
 let direction = "right";
 
